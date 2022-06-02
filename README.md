@@ -12,6 +12,13 @@ O objetivo geral deste trabalho é a criação de uma plataforma que promoverá 
 * Pedro Cerceau Kreuzer
 * Rafael Marques
 
+## Professores
+* Fábio Leandro Rodrigues Cordeiro
+* Ilo Amy Saldanha Rivero
+* Max do Val Machado
+* Sandro Jerônimo de Almeida
+* Wladmir Cardoso Brandão
+
 ## Instruções de utilização
 Para acessar o conteúdo do projeto, é necessário um dispositivo com acesso a internet por meio do navegador. O link de acesso da plataforma é o seguinte: link. 
 Acesse como visitante ou crie uma conta para se tornar um colaborador desse transformação digital que é DeepTech!
