@@ -56,7 +56,9 @@ A jornada do usuário foi definida por meio da análise das necessidades de uma 
 
 ![Mapa da empatia](https://github.com/BernardPaes/TI02-DeepTech/blob/main/Documenta%C3%A7%C3%A3o/mapaEmpatia.png)
 
+# Definição do Sistema Inteligente
 
+![Sistemas Inteligentes](https://github.com/BernardPaes/TI02-DeepTech/blob/main/Documenta%C3%A7%C3%A3o/elementosSistemasInteligentes.png)
 
 # Gerenciamento de Projetos
 
