@@ -2,11 +2,11 @@
 
 ## Introdução
 
-A tecnologia está presente na vida de milhões de brasileiros, sendo de suma importância para a sociedade moderna, haja vista, o números de serviços e produtos digitais são imensos, provendo ao usuário grande comodidade. 
+A tecnologia está presente na vida de milhões de brasileiros, sendo de suma importância para a sociedade moderna, haja vista, que os números de serviços e produtos digitais são imensos, provendo ao usuário grande comodidade. 
 
 Concomitantemente, temos uma crescente população de idosos com 30,2 milhões de pessoas segundo o IBGE (Instituto Brasileiro de Geografia e Estatísticas). Esse grupo que hoje representa aproximadamente 15% e de acordo com as projeções do IBGE, nos próximos 50 anos atingirá 25% da população, superando a população de crianças e adolescentes. Além disso, temos baixa inserção dos idosos no mundo digital e no mercado de tecnologia o que dificulta a participação e interação desses indivíduos na sociedade moderna.
 
- Tendo como base os dados expostos, podemos analisar a necessidade de inclusão desse grupo de indivíduos de participar do mundo digital e usufruir de bens e serviços digitais para melhorar a qualidade de vida dessas pessoas e ainda contribuir para economia de modo geral uma vez que o escopo do nosso projeto abrange todos os indivíduos que possuem alguma demanda de tecnologia.
+Tendo como base os dados expostos, podemos analisar a necessidade de inclusão desse grupo de indivíduos de participar do mundo digital e usufruir de bens e serviços digitais para melhorar a qualidade de vida dessas pessoas e ainda contribuir para economia de modo geral uma vez que o escopo do nosso projeto abrange todos os indivíduos que possuem alguma demanda de tecnologia.
  
  # Objetivos
  
@@ -88,11 +88,5 @@ Concluído:  Nessa coluna nos certificamos sobre as entregas que foram realizada
 - Após realizarmos um levantamento de principais dificuldades do nosso público alvo, e como a nossa plataforma poderia ser melhor adaptada para uma experiência mais interessante  elaboramos a solução e disponibilizarmos para testes com algumas pessoas idosas. Percebemos que o layout da nossa plataforma facilitou a navegação das população, e a integração com reportagens trouxe para os mesmos um acesso facilitado as reportagens que eles possuem interesse. Entretanto o campo de login por exemplo teve criticas a cerca da sua funcionalidade, visto que as pessoas que realizaram o teste não conseguiram entender o motivo de criar uma conta em nossa plataforma. 
 
 
-## Registro de Testes de Usabilidade
-  
-*
-      
-      
-### Principais Problemas Identificados
-*
+
 
