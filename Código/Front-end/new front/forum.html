@@ -29,7 +29,7 @@
         }
 
         body {
-            background-image: url("img/forum.jpg");
+            background-image: url("img/img5.jpg");
         }
 
         .titulo {
@@ -88,7 +88,7 @@
                 <div class="card">
 
                     <div id="postagens" class="list-group">
-                       
+
 
                         <!-- <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
                             <div class="d-flex w-100 justify-content-between">
@@ -110,6 +110,7 @@
                             </a> -->
 
                         <div class="">
+
                             <a href="#"
                                 class="list-group-item list-group-item-action flex-column align-items-start active">
                                 Tecnologia - Hardwares </a>
@@ -206,6 +207,8 @@
             </div>
 
             <div class="col">
+							<button type="button" class="btn btn-outline-primary mb-1">Nova postagem</button>
+
                 <div class="ultimaspostagens mb-1">
                     <div class="list-group">
                         <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
@@ -330,7 +333,7 @@
     function carregarPostagens() {
         fetch('http://localhost:5678/postagens', {
             method: "GET",
-            
+
         }).then(response => response.json().then(data => {
             console.log(data)
             console.log(response)
